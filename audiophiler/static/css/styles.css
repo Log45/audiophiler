@@ -80,3 +80,13 @@ div.version{
     max-width: 728px;
     max-height: 200px;
 }
+
+/* Style the search box inside the navigation bar */
+.nav navbar-nav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
